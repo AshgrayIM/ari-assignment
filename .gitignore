@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+.DS_Store
+node_modules/
+dist/
+*.log
+.idea/
+.vscode/
+_gen_*.js
+_write_utf8.js
+frontend/src/components/HelloWorld.vue
